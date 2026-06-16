@@ -1,0 +1,7 @@
+numpy>=1.24
+pandas>=2.0
+torch>=2.1
+transformers>=4.40
+tqdm>=4.66
+zarr>=2.18,<3
+numcodecs>=0.12
